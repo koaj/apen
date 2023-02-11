@@ -1,7 +1,7 @@
 # apen
 Append from stdin to a new file.
 
-
+`Apen` is __7x faster__ than `anewer` which a fast rust version of tomnomnom anew.
 
 ### Usage:
 
@@ -33,3 +33,4 @@ two
 ```
 
 Inspierd by [anew](https://github.com/tomnomnom/anew).
+[anewer](https://github.com/ysf/anewer)
